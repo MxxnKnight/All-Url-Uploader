@@ -26,9 +26,13 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hi {} 
+ʜɪ {} 
 
-I am Powerful Url Uploader Bot
+💫ɪᴀᴍ ᴀ ᴩᴏᴡᴇʀꜰᴜʟ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ ʙᴏᴛ.💫/n
+ɪ ᴄᴀɴ ᴜᴩʟᴏᴀᴅ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ᴛᴏ ᴛɢ ꜰɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ./n
+
+
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ <a href="https://t.me/Mxxn_Knight>ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
  
 """
 
