@@ -49,13 +49,13 @@ async def button(bot, update):
         await update.message.edit(
             text=Translation.HELP_TEXT,
             reply_markup=Translation.HELP_BUTTONS,
-            # disable_web_page_preview=True
+            disable_web_page_preview=True
         )
     elif update.data == "about":
         await update.message.edit(
             text=Translation.ABOUT_TEXT,
             reply_markup=Translation.ABOUT_BUTTONS,
-            # disable_web_page_preview=True
+            disable_web_page_preview=True
         )
     elif "close" in update.data:
         await update.message.delete(True)
