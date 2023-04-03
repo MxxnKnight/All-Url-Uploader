@@ -45,9 +45,7 @@ I am Powerful Url Uploader Bot
 # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
-
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>♻️ My Name</b> : ᴍᴏᴏɴᴋɴɪɢʜᴛ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ
 
 <b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
 
@@ -55,7 +53,7 @@ I am Powerful Url Uploader Bot
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👲 Developer :</b> <a href="https://t.me/Mxxn_Knight">ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
 
 """
 
