@@ -28,36 +28,36 @@ class Translation(object):
     START_TEXT = """
 ʜɪ {} 
 
-💫ɪᴀᴍ ᴀ ᴩᴏᴡᴇʀꜰᴜʟ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ ʙᴏᴛ.💫/n
-ɪ ᴄᴀɴ ᴜᴩʟᴏᴀᴅ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ᴛᴏ ᴛɢ ꜰɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ./n
+༺ɪᴀᴍ ᴀ ᴩᴏᴡᴇʀꜰᴜʟ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ ʙᴏᴛ.༻
+ɪ ᴄᴀɴ ᴜᴩʟᴏᴀᴅ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ᴛᴏ ᴛɢ ꜰɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ.
 
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ <a href="https://t.me/Mxxn_Knight>ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
+✰ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href="https://t.me/Mxxn_Knight">ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>.
  
 """
 
     HELP_TEXT = """
 
-# Send me the Google Drive | ytdl | direct links.
+➤ sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
-# Select the desired option.
+➤ sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
 
-# Then be relaxed your file will be uploaded soon..
+➤ ᴛʜᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ... 
  
 """
 
 # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : ᴍᴏᴏɴᴋɴɪɢʜᴛ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ
+<b>☆ ᴍʏ ɴᴀᴍᴇ</b> : ᴍᴏᴏɴᴋɴɪɢʜᴛ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>☆ ʜᴏsᴛᴇᴅ ᴏɴ</b> : <a href="https://heroku.com/">Heroku</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>☆ ʟᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
+<b>☆ ғʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/Mxxn_Knight">ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
+<b>☆ ᴏᴡɴᴇʀ :</b> <a href="https://t.me/Mxxn_Knight">ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
 
 """
 
