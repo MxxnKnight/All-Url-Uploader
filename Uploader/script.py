@@ -51,11 +51,11 @@ class Translation(object):
     ABOUT_TEXT = """
 <b>☆ ᴍʏ ɴᴀᴍᴇ</b> : ᴍᴏᴏɴᴋɴɪɢʜᴛ ᴜʀʟ ᴜᴩʟᴏᴀᴅᴇʀ
 
-<b>☆ ʜᴏsᴛᴇᴅ ᴏɴ</b> : <a href="https://heroku.com/">Heroku</a>
+<b>☆ ʜᴏsᴛᴇᴅ ᴏɴ</b> : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
-<b>☆ ʟᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>☆ ʟᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
 
-<b>☆ ғʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
+<b>☆ ғʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
 <b>☆ ᴏᴡɴᴇʀ :</b> <a href="https://t.me/Mxxn_Knight">ᴍᴏᴏɴᴋɴɪɢʜᴛ</a>
 
